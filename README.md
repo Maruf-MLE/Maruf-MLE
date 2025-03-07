@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Maruf Hasan 
 #### ML Engineer
-![ML Engineer](https://media.licdn.com/dms/image/v2/D4E03AQEOX55bYMim2w/profile-displayphoto-shrink_400_400/B4EZVsZtTHGwAg-/0/1741280434090?e=1746662400&v=beta&t=9_O2HznhVP02zSqMhicE3IdnZuNN0_47HrSGkkzvPy8)
+
 
 I am a Machine Learning Engineer passionate about building AI-driven solutions. My expertise spans Python, TensorFlow, Scikit-Learn, NumPy, Pandas, and SQL, with a strong foundation in Data Structures & Algorithms.
 
